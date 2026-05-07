@@ -5,9 +5,8 @@ h5netcdf
 numpy
 pandas
 geopandas
-rioxarray
-rasterio
 shapely
+rasterio
 matplotlib
 pyproj
 fiona
