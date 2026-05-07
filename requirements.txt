@@ -1,0 +1,13 @@
+streamlit
+xarray
+netCDF4
+h5netcdf
+numpy
+pandas
+geopandas
+rioxarray
+rasterio
+shapely
+matplotlib
+pyproj
+fiona
